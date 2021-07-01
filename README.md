@@ -19,7 +19,7 @@
 
 # Connect with me 
 
-<a href="www.linkedin.com/in/isabela-dranka">
+<a href="https://www.linkedin.com/in/isabela-dranka-ab156a89/" target="_blank">
 <img align="center" alt="Isabela Dranka Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a><br><br>
         
