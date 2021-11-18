@@ -26,5 +26,5 @@
 <img align="center" alt="Isabela Dranka Linkedin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;"></a>
 
 <br><br>
-        
+      
 ![Drnka's github stats](https://github-readme-stats.vercel.app/api?username=Drnka&show_icons=true&count_private=true&theme=tokyonight)
